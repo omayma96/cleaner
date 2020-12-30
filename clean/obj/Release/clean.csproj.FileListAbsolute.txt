@@ -1,0 +1,14 @@
+C:\Users\Youcode\source\repos\clean\obj\Release\MainWindow.g.cs
+C:\Users\Youcode\source\repos\clean\obj\Release\App.g.cs
+C:\Users\Youcode\source\repos\clean\obj\Release\clean_MarkupCompile.cache
+C:\Users\Youcode\source\repos\clean\obj\Release\clean_MarkupCompile.lref
+C:\Users\Youcode\source\repos\clean\bin\Release\clean.exe.config
+C:\Users\Youcode\source\repos\clean\bin\Release\clean.exe
+C:\Users\Youcode\source\repos\clean\bin\Release\clean.pdb
+C:\Users\Youcode\source\repos\clean\obj\Release\MainWindow.baml
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.g.resources
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.Properties.Resources.resources
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.exe
+C:\Users\Youcode\source\repos\clean\obj\Release\clean.pdb

@@ -1,0 +1,30 @@
+C:\Users\Youcode\source\repos\clean\bin\Debug\clean.exe.config
+C:\Users\Youcode\source\repos\clean\bin\Debug\clean.exe
+C:\Users\Youcode\source\repos\clean\bin\Debug\clean.pdb
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\clean\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\clean\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean_MarkupCompile.cache
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean_MarkupCompile.lref
+C:\Users\Youcode\source\repos\clean\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.g.resources
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.Properties.Resources.resources
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.exe
+C:\Users\Youcode\source\repos\clean\obj\Debug\clean.pdb
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\bin\Debug\clean.exe.config
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\bin\Debug\clean.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\bin\Debug\clean.pdb
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.csprojAssemblyReference.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\App.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean_MarkupCompile.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean_MarkupCompile.lref
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.g.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.Properties.Resources.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.csproj.GenerateResource.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\clean\obj\Debug\clean.pdb

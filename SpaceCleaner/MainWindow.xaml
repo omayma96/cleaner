@@ -1,0 +1,29 @@
+﻿<Window x:Class="SpaceCleaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpaceCleaner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="space-1548139_1920.jpg"/>
+        </Grid.Background>
+
+
+
+        <ProgressBar x:Name="bar_progress" Margin="136,148,148.453,214.226" Background="#FFD7D1D1" />
+
+        <Button x:Name="btn_start"  Content="Start"  Width="160" Height="42" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" FontSize="18" Click="btn_start_Click" Margin="320,237,312.453,141.226" Background="#FF299B3E">
+
+
+        </Button>
+
+        <Button x:Name="btn_quitter"  Content="Finir"  Width="151" Height="42" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,20.6,9.6" Foreground="White" FontWeight="Bold" FontSize="18" Click="btn_quitter_Click" Visibility="Hidden">
+        </Button>
+    
+        <TextBlock x:Name="txt_status" Text="Mis à jour en cours..." FontWeight="Bold" Foreground="White" Height="35" FontSize="20" VerticalAlignment="Center" Margin="231,234,231.6,12.6" TextAlignment="Center" TextWrapping="Wrap" Visibility="Hidden" />
+
+    </Grid>
+</Window>

@@ -1,0 +1,49 @@
+﻿<Window x:Class="clean.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clean"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid >
+        <Image  Stretch="UniformToFill"  Source="cosmos-1845140_1920.jpg"/>
+        <Rectangle HorizontalAlignment="Left" Height="324" Margin="129,-100,0,0" Stroke="Black" VerticalAlignment="Top" Width="96" RenderTransformOrigin="0.5,0.5" Opacity="0.865" StrokeThickness="0">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.326"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF022303" Offset="0"/>
+                    <GradientStop Color="#FF0A8D0A" Offset="0.997"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content="Tu es entièrement protégé" HorizontalAlignment="Left" Margin="62,17,0,0" VerticalAlignment="Top" Foreground="White" Width="253" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Dernière Analyse : " HorizontalAlignment="Left" Margin="101,51,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="#FFF6F3F3" FontSize="14"/>
+        <Label Content="Dernière MAJ :" HorizontalAlignment="Left" Margin="101,72,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="#FFF6F3F3" FontSize="14"/>
+        <TextBox  BorderBrush="#FF545353" HorizontalAlignment="Left" Height="227" Margin="109,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Background="{x:Null}" Foreground="White" SelectionBrush="#FF27323B" CaretBrush="#FF3DE30B"/>
+        <TextBox  BorderBrush="#FF545353" HorizontalAlignment="Left" Height="227" Margin="341,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Background="{x:Null}" Foreground="White" SelectionBrush="#FF27323B" CaretBrush="#FF3DE30B"/>
+        <TextBox  BorderBrush="#FF545353" HorizontalAlignment="Left" Height="227" Margin="563,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Background="{x:Null}" Foreground="White" SelectionBrush="#FF27323B" CaretBrush="#FF3DE30B"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="129,145,0,0" VerticalAlignment="Top" Width="100" Source="icons8-laptop-cleaning-50.png"/>
+        <Image HorizontalAlignment="Left" Height="84" Margin="369,155,0,0" VerticalAlignment="Top" Width="85" Source="icons8-security-time-50.png"/>
+        <Image HorizontalAlignment="Left" Height="81" Margin="593,151,0,0" VerticalAlignment="Top" Width="90" Source="icons8-update-50.png"/>
+        <Button x:Name="btn_nettoyer" Content="Nettoyer" HorizontalAlignment="Left" Margin="130,271,0,0" VerticalAlignment="Top" Width="100" Background="{x:Null}" Foreground="White" BorderBrush="White" FontWeight="Bold" FontSize="14" Height="30" OpacityMask="#FF097509" Click="btn_analyse_Click"/>
+        <Button x:Name="btn_historique" Content="Historique" HorizontalAlignment="Left" Margin="359,274,0,0" VerticalAlignment="Top" Width="100" Background="{x:Null}" Foreground="White" BorderBrush="White" FontWeight="Bold" FontSize="14" Height="30" OpacityMask="#FF087308"/>
+        <Button x:Name="btn_maj" Content="MAJ" HorizontalAlignment="Left" Margin="589,273,0,0" VerticalAlignment="Top" Width="100" Background="{x:Null}" Foreground="White" BorderBrush="White" FontWeight="Bold" FontSize="14" Height="30" OpacityMask="#FF097509"/>
+        <TextBox x:Name="version" HorizontalAlignment="Left" Height="18" Margin="609,342,0,0" TextWrapping="Wrap" Text="   V 1.0.1" VerticalAlignment="Top" Width="60" TextChanged="version_TextChanged" FontWeight="Bold" Background="#FF097509" Foreground="White"/>
+        <TextBox x:Name="version_Copy" HorizontalAlignment="Left" Height="18" Margin="149,342,0,0" TextWrapping="Wrap" Text="   N :" VerticalAlignment="Top" Width="60" TextChanged="version_TextChanged" FontWeight="Bold" Background="#FF097509" Foreground="White"/>
+        <TextBox x:Name="version_Copy1" HorizontalAlignment="Left" Height="18" Margin="382,342,0,0" TextWrapping="Wrap" Text="   N :" VerticalAlignment="Top" Width="60" TextChanged="version_TextChanged" FontWeight="Bold" Background="#FF097509" Foreground="White"/>
+        <Label Content="  Space &#xD;&#xA;Pc Cleaner" HorizontalAlignment="Left" Margin="365,28,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" FontWeight="Bold" FontFamily="Comic Sans MS" FontSize="24" Opacity="0.8" Height="84" Width="148"/>
+        <Image HorizontalAlignment="Left" Height="72" Margin="738,39,0,0" VerticalAlignment="Top" Width="36" Source="icons8-gear-64.png"/>
+        <ProgressBar Name="pbLoad" Value="1" HorizontalAlignment="Left" Height="28" Margin="147,150,0,0" VerticalAlignment="Top" Width="539" Background="#FFE7E5E5" ValueChanged="progress_ValueChanged_1" Visibility="Hidden"/>
+        <TextBlock x:Name="nbr" Text="{Binding ElementName=pbLoad, Path=Value, StringFormat={}{0:0}%}" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="279,134,280,18" FontWeight="Bold" Visibility="Hidden" />
+        <Button x:Name="btn_analyse" Content="Analyser" HorizontalAlignment="Left" Margin="563,40,0,0" VerticalAlignment="Top" Width="141" Background="#FF097509" Foreground="White" BorderBrush="White" FontWeight="Bold" FontSize="18" Height="61" OpacityMask="#FF097509" Click="btn_analyse_Click"/>
+
+    </Grid>
+</Window>

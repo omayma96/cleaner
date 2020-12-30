@@ -1,0 +1,15 @@
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\bin\Debug\cleaner.exe.config
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\bin\Debug\cleaner.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\bin\Debug\cleaner.pdb
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner_MarkupCompile.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner_MarkupCompile.lref
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.g.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.Properties.Resources.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\cleaner\obj\Debug\cleaner.pdb

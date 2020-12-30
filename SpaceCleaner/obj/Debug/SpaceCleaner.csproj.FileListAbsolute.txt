@@ -1,0 +1,15 @@
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner_MarkupCompile.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner_MarkupCompile.lref
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\bin\Debug\SpaceCleaner.exe.config
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\bin\Debug\SpaceCleaner.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\bin\Debug\SpaceCleaner.pdb
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.g.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.Properties.Resources.resources
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.exe
+C:\Users\Youcode\Documents\GitHub\pc cleaner\SpaceCleaner\obj\Debug\SpaceCleaner.pdb
